@@ -1,7 +1,7 @@
 ## Hi, I'm Tomás👋
 
-- 🔭 Currently working as a System's Engineer at [Lambdaclass](https://lambdaclass.com/)
-- 🌱 Studying Computer Science at [University of Buenos Aires](https://www.uba.ar/)
+- 🔭 Currently working as a Backend Engineer at [Nexus](https://nexus.xyz/)
+- 🌱 Studied Computer Science at [University of Buenos Aires](https://www.uba.ar/)
 
 <!--
 **tomip01/tomip01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
